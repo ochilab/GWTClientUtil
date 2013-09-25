@@ -1,6 +1,7 @@
 GWTClientUtil
 =============
 
+とりあえず、RPCメソッドを逐次的に呼び出すためのクラスを作りました。<BR>
 使い方<BR>
   &lt;inherits name='org.ochilab.gwt.client.util.Rpc'/>
 
